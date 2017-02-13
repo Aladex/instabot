@@ -15,6 +15,13 @@ Install latest stable version from pip
 pip install -U instabot
 ```
 
+For development point at your local git repo:
+
+```
+pip install -e instabot/
+```
+
+
 ## Implemented [bot](https://github.com/ohld/instabot/blob/master/instabot/bot/bot.py) methods
 
   * like logged user's feed
